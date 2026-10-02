@@ -1,13 +1,13 @@
 # Grind Plast - Bug reports, vulnerability reports and suggestions
 ## Submitting a bug report
 ---
-- [] TODO
+- [ ] TODO
 ---
 ## Submitting a vulnerability report
 ---
-- [] TODO
+- [ ] TODO
 ---
 ## Suggestions
 ---
-- [] TODO
+- [ ] TODO
 ---
